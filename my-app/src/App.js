@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import UseStateWithArrays from './components/UseStateWithArrays';
+import UseEffectCounterContainer from './components/UseEffectCounterContainer';
 
 function App() {
   return (
     <div className="App">
-        <UseStateWithArrays />
+        <UseEffectCounterContainer />
     </div>
   );
 }
