@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import UseEffectCounterContainer from './components/UseEffectCounterContainer';
+import HTTPRequests from './components/HTTPRequests';
 
 function App() {
   return (
     <div className="App">
-        <UseEffectCounterContainer />
+        <HTTPRequests />
     </div>
   );
 }
